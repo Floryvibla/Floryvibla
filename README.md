@@ -67,7 +67,7 @@
 <h3>📥 Baixe meu CV</h3>
 
 <p>
-  <a href="[https://github.com/florymignon/cv/raw/main/cv-flory-default.pdf](https://raw.githubusercontent.com/Floryvibla/Floryvibla/main/cv-flory-default.pdf)" download="cv-flory.pdf">
+  <a href="https://github.com/Floryvibla/cv/raw/main/cv-flory-default.pdf" download="Flory_CV.pdf">
     <img src="https://img.shields.io/badge/Download%20CV-Click%20Here-blue?style=for-the-badge" alt="Download CV">
   </a>
 </p>
