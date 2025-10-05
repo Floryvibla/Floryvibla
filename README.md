@@ -20,7 +20,7 @@
 
 ---
 
-<h2>Desenvolvedor Fullstack com 7 Anos de Experiência</h2>
+<h2>Desenvolvedor Fullstack com mais de 10 Anos de Experiência</h2>
 
 <p>Nascido na República Democrática do Congo, moro no Brasil desde 2014. Tenho experiência no desenvolvimento de soluções de tecnologia que trazem impacto, inovação e eficiência.</p>
 
